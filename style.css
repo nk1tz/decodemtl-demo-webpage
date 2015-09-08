@@ -23,7 +23,7 @@ body {
     perspective: 500px;
 }
 #profile-pic {
-    border-radius: 50%;
+    border-radius: 45%;
     animation: spin 0.5s infinite linear;
     animation-direction: alternate;
     box-shadow: 0 0 20px 5px rgba(0,0,0, 0.5);
